@@ -1,6 +1,5 @@
 # TensorFlow Samples
-Tenser Flow Samples for Research
-
+TensorFlow samples for research:
 
 ## clothingClassifier.ipynb
 
