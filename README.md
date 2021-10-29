@@ -1,4 +1,4 @@
-# TenserFlowSamples
+# TensorFlow Samples
 Tenser Flow Samples for Research
 
 
